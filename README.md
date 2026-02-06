@@ -32,5 +32,5 @@ The primary goal of this skill is to analyze raw git commit logs and transform t
 *   `AGENT.md`: The system prompt defining the agent's persona and logic.
 
 ### Nice to pair.
-[https://github.com/marketplace/actions/lazypr-ai-pr-summary](Lazy PR)
+[Lazy PR](https://github.com/marketplace/actions/lazypr-ai-pr-summary)
 lazypr is an AI-powered GitHub Action that rescues your repository from "lazy" documentation and "updated auth" as a PR title. It automatically generates high-context Pull Request summaries, risk assessments, and change logs directly from your code diffs.
